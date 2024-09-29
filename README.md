@@ -23,3 +23,15 @@ Includes variables such as Customer Satisfaction, Response Time, Daily Logins, T
 
 5. Total Transaction Amount: What is the total amount spent in transactions across all customers?
 
+#### Medium Level SQL Queries:
+
+6. Session Duration by High-Value Purchasers: What is the average session duration for customers who made high-value purchases?
+
+7. Survey and Product Ratings: How many customers responded to surveys and provided product ratings of 4 or higher?
+
+8. Response Time by Membership: What is the average response time based on membership status ('Yes' or 'No')?
+
+9. Product Preferences by Social Media Engagement: Which product categories are preferred by customers with social media 
+engagement scores greater than 80?
+
+10. Income Level & Product Upsell: How many customers with a 'High' income level have successfully engaged in product upselling?
