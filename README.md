@@ -35,3 +35,26 @@ Includes variables such as Customer Satisfaction, Response Time, Daily Logins, T
 engagement scores greater than 80?
 
 10. Income Level & Product Upsell: How many customers with a 'High' income level have successfully engaged in product upselling?
+
+
+#### Advanced Level SQL Queries:
+
+11. Top Customer Segments by Transaction Amount: What are the top 5 customer segments with the highest average transaction amounts using RANK()?
+    
+12. Return Products and Low Feedback: Calculate the percentage of customers with returned products and low feedback scores using CASE and COUNT().
+
+13. Satisfaction and Survey Response Correlation: Analyze the correlation between customer satisfaction and survey response rates using COVAR_POP().
+    
+14. Support Call Duration & Satisfaction Segmentation: Segment customers by satisfaction and customer support call duration using NTILE().
+    
+15. Transaction Amount by Membership: Use SUM() and GROUPING SETS to find the total transaction amount by membership status.
+ 
+16. Customer Segments & Product Categories: Analyze preferred product categories by customer segments using a window function.
+
+17. Response Times by Communication Channel: Use LAG() to track changes in response times across different communication channels.
+
+18. Top Referrals and Session Duration: Find the top 10 customers with the most referrals and high session duration using DENSE_RANK().
+
+19. Segment and Income Level Analysis: Count the number of customers by segment and income level using GROUP BY CUBE().
+
+20. Rolling Satisfaction Average: Calculate the rolling average of customer satisfaction over account age using a window function.
