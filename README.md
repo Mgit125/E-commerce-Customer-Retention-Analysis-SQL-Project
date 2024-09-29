@@ -12,8 +12,14 @@ Includes variables such as Customer Satisfaction, Response Time, Daily Logins, T
 #### Key Questions and SQL Queries
 
 ##### Basic Level SQL Queries:
+
 1.Average Customer Satisfaction: What is the average satisfaction score across all customers?
+
 2.Daily User Logins: How many customers have logged in more than 5 times daily?
+
 3.Communication Channel Preference: How many customers prefer Email as their communication method?
+
 4.Product Returns: Retrieve the count of customers who have returned products.
+
 5.Total Transaction Amount: What is the total amount spent in transactions across all customers?
+
