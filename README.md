@@ -63,7 +63,7 @@ engagement scores greater than 80?
 
 ### Insights & Business Impact
 
-#####Customer Segmentation: 
+##### Customer Segmentation: 
 By segmenting customers based on factors like satisfaction and loyalty, the platform can develop more targeted and personalized marketing campaigns that are more likely to succeed.
 
 ##### Operational Efficiency: 
@@ -75,7 +75,7 @@ Insights into preferred product categories and upsell performance enable the com
 ##### Retention Optimization: 
 Understanding customer satisfaction, engagement patterns, and feedback allows the company to identify critical areas for retention efforts, helping to reduce churn and maintain long-term relationships with high-value customers.
 
-###### By leveraging advanced SQL techniques, these insights can enhance data-driven decision-making, driving strategic improvements in customer retention and overall business performance.
+#### By leveraging advanced SQL techniques, these insights can enhance data-driven decision-making, driving strategic improvements in customer retention and overall business performance.
 
 
 ### How to Improve Future Performance
@@ -89,6 +89,6 @@ Focus on customers with high engagement for upselling efforts, particularly in c
 ##### Refine Customer Service: 
 Use insights from response time analysis to reduce wait times and improve the overall customer experience, leading to higher satisfaction scores.
 
-###### By applying these SQL queries and insights, the e-commerce platform can increase customer retention, improve service delivery, and drive future sales growth.
+#### By applying these SQL queries and insights, the e-commerce platform can increase customer retention, improve service delivery, and drive future sales growth.
 
 
