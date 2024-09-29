@@ -73,3 +73,15 @@ Retention Optimization: Understanding customer satisfaction, engagement patterns
 
 By leveraging advanced SQL techniques, these insights can enhance data-driven decision-making, driving strategic improvements in customer retention and overall business performance.
 
+
+### How to Improve Future Performance
+
+Targeted Campaigns: Use segmented data to create hyper-targeted campaigns aimed at increasing satisfaction and loyalty among different customer groups.
+
+Optimize Product Upsell Strategies: Focus on customers with high engagement for upselling efforts, particularly in categories where they show high interest.
+
+Refine Customer Service: Use insights from response time analysis to reduce wait times and improve the overall customer experience, leading to higher satisfaction scores.
+
+By applying these SQL queries and insights, the e-commerce platform can increase customer retention, improve service delivery, and drive future sales growth.
+
+
