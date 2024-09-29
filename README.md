@@ -58,3 +58,18 @@ engagement scores greater than 80?
 19. Segment and Income Level Analysis: Count the number of customers by segment and income level using GROUP BY CUBE().
 
 20. Rolling Satisfaction Average: Calculate the rolling average of customer satisfaction over account age using a window function.
+
+
+
+### Insights & Business Impact
+
+Customer Segmentation: By segmenting customers based on factors like satisfaction and loyalty, the platform can develop more targeted and personalized marketing campaigns that are more likely to succeed.
+
+Operational Efficiency: Analyzing response times and session durations helps identify bottlenecks in customer service and opportunities to enhance user experience.
+
+Product Strategy: Insights into preferred product categories and upsell performance enable the company to better position its product offerings, increasing cross-sell opportunities and driving more revenue.
+
+Retention Optimization: Understanding customer satisfaction, engagement patterns, and feedback allows the company to identify critical areas for retention efforts, helping to reduce churn and maintain long-term relationships with high-value customers.
+
+By leveraging advanced SQL techniques, these insights can enhance data-driven decision-making, driving strategic improvements in customer retention and overall business performance.
+
